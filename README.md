@@ -1,0 +1,1 @@
+This project has started as a home project, withour any expectations but to translate my academic experience with ROBDD packages to a simple C++ implementation. There is a basic usage example in "main.cpp". There is no further documentation yet.
