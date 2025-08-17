@@ -1,1 +1,1 @@
-This project has started as a home project without any expectations but exercising my academic experience with ROBDD packages to a simple C++ implementation. Usage example in "main.cpp". No further documentation is provided yet.
+This project has started as a home project without any expectations but exercising my academic experience with a simple ROBDD package C++ implementation. Usage example in "main.cpp". No further documentation is provided yet.
